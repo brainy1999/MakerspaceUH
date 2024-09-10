@@ -7,7 +7,7 @@ For those who knew who I was, and knew what I did at UH, you know why now, why y
 # File Overview
 This repository is organized into 4 sections.
 
-1. /[MakerspaceatUH](./pages/why) - Lecture Slides from University Drone Pilots and Robotics@UH that I recorded. 
+1. /[MakerspaceatUH](.MakerspaceatUH/makerspace_page.md) - Lecture Slides from University Drone Pilots and Robotics@UH that I recorded. 
 2. /[RoboticsatUH](./pages/why) - Presentations I gave to Robotics@UH to train students for the future of Robotics education. 
 3. /[ESIDEatCullen](./pages/why) - Lectures I gave at the besest of the Engineering College to improve the student ability.
 4. /[Classwork](./pages/why) - Notes from my classwork.
