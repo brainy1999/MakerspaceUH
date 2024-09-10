@@ -28,12 +28,14 @@ Raspberry Pis are small, ARM-based Linux Machines with the ability of running co
 |Raspberry Pi 2| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Raspberry Pi 3| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Raspberry Pi 4| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
+
 ## Robotics
 
 | | | | |
 |--|--|--|--|
 |Robot Design| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Robot Software & Sumo| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
+
 ## One Shot Courses
 
 | | | | |
@@ -41,6 +43,7 @@ Raspberry Pis are small, ARM-based Linux Machines with the ability of running co
 |Laser Cutting| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |PCB Design| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |3D Printing| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
+
 # Dedication
 This page is dedicated to my coworkers,
 > Ali, George, James, Andrew, Any'a, Chris, Mark, and Lee Hilyer.
