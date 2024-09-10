@@ -12,7 +12,7 @@ These workshops are intended for a general audience, someone with little to no p
 Arduino is an open source, easy to learn embedded device. It forms the backbone of students being able to develop easy methods to write code that can measure, monitor, and affect the real world.
 
 | | | | |
-|--|--|--|--|
+|:--|:--|:--|:--|
 |Arduino 1| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Arduino 2| Inputs, buttons, potentiometers, and if statements | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Arduino 3| Introduction to Sensors with Arduino | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
@@ -23,7 +23,7 @@ Arduino is an open source, easy to learn embedded device. It forms the backbone 
 Raspberry Pis are small, ARM-based Linux Machines with the ability of running complex commands.
 
 | | | | |
-|--|--|--|--|
+|:--|:--|:--|:--|
 |Raspberry Pi 1| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Raspberry Pi 2| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Raspberry Pi 3| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
@@ -32,14 +32,14 @@ Raspberry Pis are small, ARM-based Linux Machines with the ability of running co
 ## Robotics
 
 | | | | |
-|--|--|--|--|
+|:--|:--|:--|:--|
 |Robot Design| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Robot Software & Sumo| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 
 ## One Shot Courses
 
 | | | | |
-|--|--|--|--|
+|:--|:--|:--|:--|
 |Laser Cutting| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |PCB Design| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |3D Printing| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
