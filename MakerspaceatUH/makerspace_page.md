@@ -50,7 +50,7 @@ And the people who worked behind the scenes to make this space happen and suppor
 
 # Go Back
 
-[Click here to return to the home page](.../README.md)
+[Click here to return to the home page](README.md)
 <!---
 To Do - Upload the old videos to Youtube and link them properly. Rerecord the older videos.
 -->
