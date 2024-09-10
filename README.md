@@ -8,10 +8,10 @@ This repository contains all of the Engineering Education work I did at the Univ
 # File Overview
 This repository is organized into 4 sections.
 
-| /MakerspaceatUH | Lecture Slides from University Drone Pilots and Robotics@UH that I recorded. | powerpoints, lecture links, code|
-| /RoboticsatUH | Presentations I gave to Robotics@UH to train students for the future of Robotics  | Powerpoints  |
-| /ESIDEatCullen | Lectures I gave at the besest of the Engineering College to try and improve it | powerpoints, lecture links, code|
-| /Classwork | Notes from my classwork | code, video links |
-| /PagesandBlog | Functional blog items to maintain the blog and wiki | just blog code  |
+1. /MakerspaceatUH - Lecture Slides from University Drone Pilots and Robotics@UH that I recorded. 
+2. /RoboticsatUH | Presentations I gave to Robotics@UH to train students for the future of Robotics education. 
+3. /ESIDEatCullen | Lectures I gave at the besest of the Engineering College to improve the student ability.
+4. /Classwork | Notes from my classwork.
+5. /PagesandBlog | Functional blog items to maintain the blog and wiki.
 
 I leave this to all students at UH to try and solve problems in the future, and hopefully change the Engineering College where others can. Thank you to Dr. Burleson, Dr. Roysam, many other professors who chose not to be named, Robert Dial, Ralph Brown, and CMDR Sablin.
