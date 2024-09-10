@@ -5,10 +5,10 @@ title: For Makers at UH
 description: For Makers, Creators, Engineers, Designers, and students who are still left at that university and struggling through their Engineering Program. Documentation includes old lectures, presentations, data analysis, and other information relevant for people at UH who still want to build cool things.
 
 include:
-  - _MakerspaceatUH
-  - _RoboticsatUH
-  - _ESIDEatCullen
-  - _Classwork
-  - _Pages
+  - /MakerspaceatUH/
+  - /RoboticsatUH/
+  - /ESIDEatCullen/
+  - /Classwork/
+  - /Pages/
 
   % This config file sets up the webpage for Github Pages %
