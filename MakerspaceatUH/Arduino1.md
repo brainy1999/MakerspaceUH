@@ -5,7 +5,8 @@ layout: default
 # Arduino Workshop 1
 
 ## Table of contents
- * {:toc}
+{:toc}
+
 
 ## Objectives
  * Understand the power of the Arduino
@@ -32,7 +33,7 @@ layout: default
   * [Mega]() – Five times the power and double the size.
   * [Mini]() – So small it doesn’t have a USB slot.
 
-> Addendum - <details closed> <summary> **Arduino based PLCs**  </summary>
+> Addendum - **Arduino based PLCs** <details> <summary></summary>
  > Arduino has now added their own line of industrial grade controllers, notably the [Opta](https://store.arduino.cc/collections/pro-family) Micro-Programmable Logic Controllers (PLCs). PLCs are commonly used industry tools known for their reliability and fault tolerance, and make up everything from street light controls, to oil and gas control plants, and even space systems like rocket engine controllers. There are institutional educational resources on learning more about PLCs. </details>
 
 ![Arduino Derivatives]()
