@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: For Makers at UH
 description: For Makers, Creators, Engineers, Designers, and students who are still left at that university and struggling through their Engineering Program. Documentation includes old lectures, presentations, data analysis, and other information relevant for people at UH who still want to build cool things.
+markdown: kramdown
 
 include:
   - /MakerspaceatUH/
