@@ -15,7 +15,7 @@ Arduino is an open source, easy to learn embedded device. It forms the backbone 
 
 | | | | |
 |:--|:--|:--|:--|
-|Arduino 1| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
+|Arduino 1| Introduction, outputs, and LED lights | [~~Video 1~~](.../README.md) | [Tutorial Page](Arduino1.md) |
 |Arduino 2| Inputs, buttons, potentiometers, and if statements | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Arduino 3| Introduction to Sensors with Arduino | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
 |Arduino 4| Basics of motor Control with Arduino | [~~Video 1~~](.../README.md) | [Tutorial Page](.../README.md) |
