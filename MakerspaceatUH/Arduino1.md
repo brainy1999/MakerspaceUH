@@ -5,8 +5,8 @@ layout: default
 # Arduino Workshop 1
 
 ## Table of contents
+* TOC
 {:toc}
-
 
 ## Objectives
  * Understand the power of the Arduino
