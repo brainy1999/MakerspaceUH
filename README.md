@@ -1,4 +1,5 @@
-### This repository contains all of the Engineering Education work I did at the Univeristy of Houston through the Cullen College of Engineering, the M.D. Anderson Library, the Robotics Club at the University of Houston, and many others. 
+# Resources for Makers
+For Makers, Creators, Engineers, Designers, and students who are still left at that university struggling through their Engineering Program. Documentation includes old lectures, presentations, data analysis, and other information relevant for people at makers who still want to build cool things. This repository contains all of the Engineering Education work I did at the Univeristy of Houston through the Cullen College of Engineering, the M.D. Anderson Library, the Robotics Club at the University of Houston, and many others. 
 
 # File Overview
 This repository is organized into 4 sections.
